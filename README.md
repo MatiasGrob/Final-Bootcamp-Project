@@ -6,7 +6,7 @@ This repository contains the final project for the bootcamp. The project explore
 
 The repository includes the following files:
 
-- [Final Presentation PPT](./Final%20Presentation%20PPT.pptx) - Click to open. This file contains the final presentation for the project, summarizing the insights and findings.
+- [Final Presentation PPT](./Final%20Presentation%20PPT.pptx) - [Click to open and download](./Final%20Presentation%20PPT.pptx)
 - [Final Project (1960-2021).ipynb](./Final%20Project%20(1960-2021).ipynb) - Click to open. This Jupyter Notebook contains the main project code and analysis, covering the period from 1960 to 2021.
 - [Final Project-Class-Model (MigrationClass).ipynb](./Final%20Project-Class-Model%20(MigrationClass).ipynb) - Click to open. This Jupyter Notebook focuses on the machine learning model for predicting migration class.
 - [Final Project-RegModel (NetMigration).ipynb](./Final%20Project-RegModel%20(NetMigration).ipynb) - Click to open. This Jupyter Notebook focuses on the machine learning model for predicting net migration.
